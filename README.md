@@ -6,3 +6,6 @@ All the questions have been solved using python.
 ## Content
 - Arrays
 - Linked List
+- Graph
+- Searching
+- Sorting
